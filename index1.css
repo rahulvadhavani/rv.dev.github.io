@@ -272,7 +272,6 @@ footer ul li a:hover{text-decoration: none;
 	z-index: 5;
     border-radius: 0 20px 20px 0; 
     transition: all 0.5s; 
-    text-align: center;
     padding-right: 5px;
     
 }
@@ -289,6 +288,7 @@ footer ul li a:hover{text-decoration: none;
     color: black;
     cursor: default;
 }
+.settingmenu div{text-align: center;}
 .tcolor{
 	display:flex; 
 	justify-content: space-around;
