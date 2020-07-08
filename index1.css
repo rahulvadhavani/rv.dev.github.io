@@ -277,12 +277,14 @@ footer ul li a:hover{text-decoration: none;
     
 }
 .setting:hover{left: -5px; color: white;}
-.settingmenu{position: absolute; 
+.settingmenu{position: absolute;
+	text-align: center;
 	left: -152px; top: 40px; 
 	width: 150px; 
 	height: 150px; 
 	background:rgba(255,255,255,0.3); 
 	border-radius: 10px;
+	
     padding: 10px 20px;
     color: black;
     cursor: default;
