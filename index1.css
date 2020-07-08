@@ -1,6 +1,6 @@
 *{margin: 0px; padding: 0px; box-sizing: border-box;
 font-family: 'Monda', sans-serif;}
-html{font-size: 18px;}
+html{font-size: 18px; -webkit-user-select: none;}
 a,a:hover{text-decoration: none;}
 li{list-style: none;}
 
