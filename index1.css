@@ -288,7 +288,7 @@ footer ul li a:hover{text-decoration: none;
     color: black;
     cursor: default;
 }
-.settingmenu div{text-align: center;}
+.settingmenu.theme{text-align: center;}
 .tcolor{
 	display:flex; 
 	justify-content: space-around;
