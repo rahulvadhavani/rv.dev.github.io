@@ -234,7 +234,6 @@ footer ul li a:hover{text-decoration: none;
 }
 
 /*resumebtn*/
-
 .resumebtn{
 	 display: inline-block;
 	 border-radius: 10px; margin-top: 20px;
@@ -254,15 +253,12 @@ footer ul li a:hover{text-decoration: none;
       font-weight: bold;
       transition: all 1s;     
 }
-.submitbtn a:hover{
-	text-decoration: none;
-	color: white;
-	background-position: right center;
-}
 .resumebtn a:hover{
 	text-decoration: none;
-	color: white;
-	}
+	color: black;
+	background-position: right center;
+}
+
 /*resumeend*/
 
 /*setting*/
