@@ -254,9 +254,10 @@ footer ul li a:hover{text-decoration: none;
       font-weight: bold;
       transition: all 1s;     
 }
+.submitbtn a:hover{color: white!important;}
 .resumebtn a:hover{
 	text-decoration: none;
-	color: white;
+	color: white!important;
 	background-position: right center;
 }
 /*resumeend*/
